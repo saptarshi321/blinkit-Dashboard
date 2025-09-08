@@ -63,6 +63,8 @@ Focus on profitable categories while reducing discounts on low-margin items.
 Improve inventory for fast-moving items during peak demand.
 Launch targeted marketing campaigns in high-growth regions.
 
+⚡ Outcome: This dashboard empowers Blinkit to boost sales, improve profit margins, and optimize operations through actionable insights.
+
 📸 Screenshot
 
 Let's see how the Dashboard looks :- ![Alt text](https://github.com/username/repo/assets/image.png).
