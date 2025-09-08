@@ -66,4 +66,4 @@ Launch targeted marketing campaigns in high-growth regions.
 📸 Screenshot
 
 Let's see how the Dashboard looks :- ![Alt text](https://github.com/username/repo/assets/image.png).
-![Dashboard Preview]().
+![Dashboard Preview](https://github.com/saptarshi321/blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png).
